@@ -1,2 +1,2 @@
 # JDBC-Conectivity
-Java Programm conncect with MySql
+Java Programm connect with MySql
